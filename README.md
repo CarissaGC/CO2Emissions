@@ -7,9 +7,9 @@ This project was completed using Google Colaboratory software and organized usin
 ### Data
 Data used in this project was obtained retrieved from the Our World in Data github page on March 29th, 2023. Their CO2 and Greenhouse Gas Emissions dataset can be found here: https://github.com/owid/co2-data
 ### Data Processing
-The OWiD dataset should be loaded in with pandas. To effectively use the OWiD CO2 and Greenhouse Gas Emissions dataset for this project, some adjustments must be made to the original dataset.
+The OWiD dataset owid-co2-data.csv should be viewed as raw and loaded in with pandas. To effectively use the OWiD CO2 and Greenhouse Gas Emissions dataset for this project, some adjustments must be made to the original dataset.
 
-The dataset must be redefined to remove non-country data.
+The dataset must be redefined to remove non-country data. See notebook for details.
 ### Author
 This project was created by Seattle University student Carissa Caulton for MATH 2315, Probability, Statistics, and Data Computation.
 
